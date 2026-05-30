@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserecrypt",
+        "uuid": 13359738,
+        "checksum": "juop9f"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
